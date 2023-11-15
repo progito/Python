@@ -1,2 +1,2 @@
 # код лабораторной работы
-print("hello world")
+print("hello world1")
