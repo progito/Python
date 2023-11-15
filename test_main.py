@@ -2,7 +2,7 @@ try:
     foo = "def main():"
     with open("lab1/main.py", "r") as file:
         code = file.read()
-    if code.find(foo) != 1:
+    if code.find(foo) <= -1:
         code_lines = code.split("\n")
         code_lines.append("")
         code_lines.insert(0, foo)
