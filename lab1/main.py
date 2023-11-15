@@ -1,5 +1,5 @@
 def main():
-    ame= input("введи имя")
+    name= input("введи имя")
     folowers= int(input("введи к-во подписчиков"))
     link= input("оставь ссылку")
     print("Привет", name )
