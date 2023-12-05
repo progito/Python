@@ -29,6 +29,7 @@
 
 [PEP8](https://peps.python.org/pep-0008/)
 [Type hints](https://docs.python.org/3/library/typing.html)  
+[F-строки](https://docs.python.org/3/reference/lexical_analysis.html#f-strings)
 
 **3.Коллекции в Python**
 
